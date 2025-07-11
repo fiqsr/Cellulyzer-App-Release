@@ -60,7 +60,7 @@ The app's key feature is its movable, on-screen overlay, allowing you to monitor
 
 ## Feedback and Issues
 
-Found a bug or have a feature request? Please open an issue on the [**Issues Page**](https://github.com/fiqsr/Cellulyzer-Releases/issues). Your feedback is greatly appreciated!
+Found a bug or have a feature request? Please open an issue on the [**Issues Page**](https://github.com/fiqsr/Cellulyzer-App-Release/issues). Your feedback is greatly appreciated!
 
 ---
 
@@ -68,4 +68,4 @@ Found a bug or have a feature request? Please open an issue on the [**Issues Pag
 
 Syafiq Surya Rucita - [@fiq.sr](https://instagram.com/fiq.sr)
 
-Project Link: [https://github.com/fiqsr/Cellulyzer-Releases](https://github.com/fiqsr/Cellulyzer-Releases)
+Project Link: [https://github.com/fiqsr/Cellulyzer-Releases]([https://github.com/fiqsr/Cellulyzer-Releases](https://github.com/fiqsr/Cellulyzer-App-Release))
