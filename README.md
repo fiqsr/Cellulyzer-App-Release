@@ -2,7 +2,7 @@
   <img src="https://placehold.co/600x200/E63946/FFFFFF?text=Cellulyzer&font=raleway" alt="Cellulyzer Banner">
   <h1>Cellulyzer 📱</h1>
   <p>A powerful, real-time cellular network analysis tool for Android.</p>
-  <a href="https://github.com/fiqsr/Cellulyzer-Releases/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg" alt="Download APK"></a>
+  <a href="https://github.com/fiqsr/Cellulyzer-App-Release/releases"><img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg" alt="Download APK"></a>
 </div>
 
 ---
@@ -48,7 +48,7 @@ The app's key feature is its movable, on-screen overlay, allowing you to monitor
 ## How to Install
 
 1.  **Download the APK:**
-    Go to the [**Releases Page**](https://github.com/fiqsr/Cellulyzer-Releases/releases/latest) and download the latest `.apk` file from the "Assets" section.
+    Go to the [**Releases Page**](https://github.com/fiqsr/Cellulyzer-App-Release/releases) and download the latest `.apk` file from the "Assets" section.
 
 2.  **Enable Unknown Sources:**
     On your Android device, go to `Settings > Security` and enable the "Install from Unknown Sources" option. The exact path may vary depending on your Android version.
@@ -68,4 +68,4 @@ Found a bug or have a feature request? Please open an issue on the [**Issues Pag
 
 Syafiq Surya Rucita - [@fiq.sr](https://instagram.com/fiq.sr)
 
-Project Link: [https://github.com/fiqsr/Cellulyzer-Releases]([https://github.com/fiqsr/Cellulyzer-Releases](https://github.com/fiqsr/Cellulyzer-App-Release))
+Project Link: [https://github.com/fiqsr/Cellulyzer-Releases](https://github.com/fiqsr/Cellulyzer-App-Release)
