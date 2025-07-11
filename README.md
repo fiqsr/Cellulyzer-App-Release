@@ -68,4 +68,4 @@ Found a bug or have a feature request? Please open an issue on the [**Issues Pag
 
 Syafiq Surya Rucita - [@fiq.sr](https://instagram.com/fiq.sr)
 
-Project Link: [https://github.com/fiqsr/Cellulyzer-Releases](https://github.com/fiqsr/Cellulyzer-App-Release)
+Project Link: [Github](https://github.com/fiqsr/Cellulyzer-App-Release)
