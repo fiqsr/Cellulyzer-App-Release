@@ -41,7 +41,7 @@ The app's key feature is its movable, on-screen overlay, allowing you to monitor
 
 | Main Screen                                                                                | Overlay View                                                                               |
 | :----------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
-| ![Screenshot of the Main Screen](https://placehold.co/270x540/FFFFFF/000000?text=Main+Screen) | ![Screenshot of the Overlay View](https://placehold.co/270x540/FFFFFF/000000?text=Overlay+View) |
+| ![Screenshot of the Main Screen](https://github.com/fiqsr/Cellulyzer-App-Release/blob/main/Screenshot/Main.jpg) | ![Screenshot of the Overlay View](https://github.com/fiqsr/Cellulyzer-App-Release/blob/main/Screenshot/Overlay.jpg) |
 
 ---
 
